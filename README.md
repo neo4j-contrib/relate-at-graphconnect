@@ -21,4 +21,4 @@ Share Information
 
 We'll coordinate and collaborate with the github wiki. Feel free to add links below. 
 
-* [RFID Tag Hacking](wiki/RFID-Tag-Hacking)
+* [RFID Tag Hacking](/neo4j-contrib/relate-at-graphconnect/wiki/RFID-Tag-Hacking)

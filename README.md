@@ -1,4 +1,4 @@
-Relate! at Graph Connect
+[Relate! at Graph Connect](http://neo4j-contrib.github.com/relate-at-graphconnect)
 ========================
 the un-conference of related nodes
 

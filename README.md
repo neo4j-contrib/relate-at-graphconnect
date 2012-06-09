@@ -7,6 +7,9 @@ the Relate! [un-conference](http://www.unconference.net) will guide community-dr
 events during Graph Connect. We'll provide demo space, organize hacking sessions, and host social 
 discussions as you establish your own connections with other graphistas. 
 
+* [Nonplan](/neo4j-contrib/relate-at-graphconnect/wiki/Nonplan) - planning to not plan a schedul
+* [Brainstorming](/neo4j-contrib/relate-at-graphconnect/wiki/Brainstorm) - got ideas for what to do at the unconference? add 'em here
+
 Share Code
 ----------
 

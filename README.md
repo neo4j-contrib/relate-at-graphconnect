@@ -17,7 +17,7 @@ This repository is available for anyone to share code. Just create your own top-
 directory with your github username, edit this readme to add yourself to the list, then
 push to the repository. Remember, this is shared so play nice. ;)
 
-* [@akollegger](http://github.com/akollegger) - *Neo4j Cloud Wrangler*, experiments with RFID, GCLI and twitter
+* [@akollegger](/neo4j-contrib/relate-at-graphconnect/tree/master/akollegger) - *Neo4j Cloud Wrangler*, experiments with RFID, GCLI and twitter
 
 Share Information
 -----------------

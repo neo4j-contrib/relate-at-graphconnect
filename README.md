@@ -1,4 +1,4 @@
-[Relate! at Graph Connect](http://neo4j-contrib.github.com/relate-at-graphconnect)
+[Relate!](http://neo4j-contrib.github.com/relate-at-graphconnect) @ [Graph Connect](http://graphconnect.com)
 ========================
 the hands-on track
 

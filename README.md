@@ -2,12 +2,11 @@
 ========================
 the hands-on track
 
-Like trading the strict schema of relational tables for the organic organization of a graph, 
-the Relate! [un-conference](http://www.unconference.net) will guide community-driven participatory 
-events during Graph Connect. We'll provide demo space, organize hacking sessions, and host social 
+The hand-on track at GraphConnect  will guide community-driven participatory 
+events. We'll provide demo space, organize hacking sessions, and host social 
 discussions as you establish your own connections with other graphistas. 
 
-* [Plan](/neo4j-contrib/relate-at-graphconnect/wiki/Nonplan) - planning to not plan a schedule
+* [Plan](/neo4j-contrib/relate-at-graphconnect/wiki/Plan) - schedule plan for the track
 * [Brainstorming](/neo4j-contrib/relate-at-graphconnect/wiki/Brainstorm) - got ideas for data sets, projects, or collaboration? add 'em here
 
 Share Code

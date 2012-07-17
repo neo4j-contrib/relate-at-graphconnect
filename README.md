@@ -1,23 +1,19 @@
 [Relate! at Graph Connect](http://neo4j-contrib.github.com/relate-at-graphconnect)
 ========================
-the un-conference of related nodes
+the hands-on track
 
 Like trading the strict schema of relational tables for the organic organization of a graph, 
 the Relate! [un-conference](http://www.unconference.net) will guide community-driven participatory 
 events during Graph Connect. We'll provide demo space, organize hacking sessions, and host social 
 discussions as you establish your own connections with other graphistas. 
 
-* [Nonplan](/neo4j-contrib/relate-at-graphconnect/wiki/Nonplan) - planning to not plan a schedule
-* [Brainstorming](/neo4j-contrib/relate-at-graphconnect/wiki/Brainstorm) - got ideas for what to do at the unconference? add 'em here
+* [Plan](/neo4j-contrib/relate-at-graphconnect/wiki/Nonplan) - planning to not plan a schedule
+* [Brainstorming](/neo4j-contrib/relate-at-graphconnect/wiki/Brainstorm) - got ideas for data sets, projects, or collaboration? add 'em here
 
 Share Code
 ----------
 
-This repository is available for anyone to share code. Just create your own top-level
-directory with your github username, edit this readme to add yourself to the list, then
-push to the repository. Remember, this is shared so play nice. ;)
-
-* [@akollegger](/neo4j-contrib/relate-at-graphconnect/tree/master/akollegger) - *Neo4j Cloud Wrangler*, experiments with RFID, GCLI and twitter
+This github repository will become the SDK for development at Graph Connect.
 
 Share Information
 -----------------
